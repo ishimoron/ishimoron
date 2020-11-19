@@ -24,3 +24,7 @@ Latest YouTube Videos
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/id216418286)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/evgeni.ishimov.3)
 
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ishimoron&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ishimoron&show_icons=true&theme=onedark)
+
