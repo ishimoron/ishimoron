@@ -6,5 +6,5 @@ Latest YouTube Videos
 
 ### Languages and Tools
 
-![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=Flutter&logoColor=47C5FB)
+![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=ReactNative&logoColor=00d1f7)
 Follow Me
