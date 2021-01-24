@@ -1,4 +1,4 @@
-[![Header](https://github.com/ishimoron/ishimoron/blob/main/header.png)]
+![Header](https://github.com/ishimoron/ishimoron/blob/main/header.png)
 
 ## Hi, I'm Web Developer 🚀
 
