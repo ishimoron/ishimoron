@@ -17,7 +17,7 @@
 ### Follow Me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ishimoron)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=DC4E41)](eugene.ishimov@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=DC4E41)](mailto:eugene.ishimov@gmail.comeugene.ishimov@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/evishimov/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=ishimoron&show_icons=true&theme=dracula)
