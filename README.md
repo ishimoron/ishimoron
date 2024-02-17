@@ -42,7 +42,7 @@
 
 ### Languages:
 
-![Ukrainian](https://img.shields.io/badge/-Ukrainian-090909?style=for-the-badge&logoColor=777BB4&labelColor=090909) - Родной
-
-![English](https://img.shields.io/badge/-English-090909?style=for-the-badge&logoColor=1572B6)
-![Polish](https://img.shields.io/badge/-Polish-090909?style=for-the-badge&logoColor=CC6699)
+![English](https://img.shields.io/badge/-English/B2-090909?style=for-the-badge&logoColor=1572B6)
+![Polish](https://img.shields.io/badge/-Polish/C1-090909?style=for-the-badge&logoColor=CC6699)
+![Ukrainian](https://img.shields.io/badge/-Ukrainian/Native-090909?style=for-the-badge&logoColor=777BB4&labelColor=090909)
+![Russian](https://img.shields.io/badge/-Russian/Native-090909?style=for-the-badge&logoColor=777BB4&labelColor=090909)
