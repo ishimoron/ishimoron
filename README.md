@@ -1,7 +1,11 @@
-![Header](https://github.com/ishimoron/ishimoron/blob/main/header.png)
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
+<div align="center" width="50">
 
-## Hello, I'm Evgeni 🚀
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://i.imgur.com/NdyJZzO.gifv" alt="Welcome!" width="300"/>
+
+</div>
 
 ### Languages and Tools:
 
